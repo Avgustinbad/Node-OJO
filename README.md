@@ -25,6 +25,8 @@ sudo apt install -y curl git jq lz4 build-essential unzip
 
 ```
 bash <(curl -s "https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/utils/go_install.sh")
+```
+```
 source .bash_profile
 ```
 
